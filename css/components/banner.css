@@ -1,0 +1,15 @@
+.hero-banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  height: 600px;
+  color: white;
+  display: flex;
+  align-items: center;
+  background-position: center;
+}
+
+#banner-subtext {
+  opacity: 0.5;
+  font-weight: lighter;
+  font-size: 20px;
+}
